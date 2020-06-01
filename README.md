@@ -1,5 +1,8 @@
 # Mern-Shopping-List
 
+## App Deployed
+[Mern Shopping List](https://fierce-reef-65708.herokuapp.com/) 
+
 ## Api End Points
 
 #### 1. GET - Get all items
