@@ -9,7 +9,6 @@ import store from './store';
 
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './App.css';
-import itemModal from './components/ItemModal';
 
 function App() {
   return (
