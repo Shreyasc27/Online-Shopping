@@ -16,3 +16,15 @@
 
 #### 4. PUT - Update an item
 ![PUT Request](/readMeImages/PUT.png)
+
+## User interface
+
+#### 1. Display list of items
+![Display list of items](/readMeImages/DisplayAllItems.png)
+
+#### 2. Add an item to the list
+![Add an item to the list](/readMeImages/AddAnItem.png)
+
+#### 3. Display the newly added item
+![Display the newly added item](/readMeImages/ViewNewlyAddedItem.png)
+
